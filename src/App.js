@@ -5,18 +5,19 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+      
+        <h3>
+         Enlaces del curso de LA MATEMÁTICA, UN MEDIO PARA DESARROLLAR EL PENSAMIENTO
+        </h3>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://utpl.zoom.us/meeting/register/tZ0odeirrzwrG9Yk3gK5-_zFmIw58Ao0KFr_"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         link a la clase de Zoom APLASTE AQUÍ
         </a>
+       
       </header>
     </div>
   );
