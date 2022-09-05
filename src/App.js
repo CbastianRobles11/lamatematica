@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
       
         <h3>
-         Enlaces del curso de LA MATEMÁTICA, UN MEDIO PARA DESARROLLAR EL PENSAMIENTO
+         Enlaces de la clase de LA MATEMÁTICA, UN MEDIO PARA DESARROLLAR EL PENSAMIENTO
         </h3>
         <a
           className="App-link"
